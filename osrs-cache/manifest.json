@@ -1,0 +1,29 @@
+{
+  "id": 2772,
+  "scope": "runescape",
+  "game": "oldschool",
+  "language": "en",
+  "environment": "live",
+  "timestamp": "2026-11-18T14:45:05.401534Z",
+  "builds": [
+    {
+      "major": 242,
+      "minor": null
+    }
+  ],
+  "diskZipSha256": "8aa647fb74e11e8cdf6ddf795ab523e18bddbb566895476809049d84303bfba9",
+  "diskZipBytes": 14404805,
+  "size": 14404805,
+  "fetchedAt": "2026-11-27T10:34:58.942Z",
+  "source": "https://archive.openrs2.org/caches/runescape/2772",
+  "trimmed": true,
+  "trimmedAt": "2026-11-27T10:35:48.509Z",
+  "trimmedFromSha256": "c7ee7ba49204e62d1d6bddf9f363a456027989f739fdf633d511a102eca826c9",
+  "trimmedFromBytes": 212842727,
+  "trimTraceCount": 9950,
+  "traceSpecHash": "5296c650341004d3f42f949a3bb8472eca248907babc42ba9d59c8fcc631286e",
+  "containerCompressions": [
+    "none",
+    "gzip"
+  ]
+}
